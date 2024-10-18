@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Cd+E5rDYNAaWG2+1ZMX6j7+N3xhws4TrVGzy9cqQb2o=",
+  "Source": "MimimalAPiPeliculas",
+  "BasePath": "_content/MimimalAPiPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MimimalAPiPeliculas/wwwroot",
+      "Source": "MimimalAPiPeliculas",
+      "ContentRoot": "/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/wwwroot/",
+      "BasePath": "_content/MimimalAPiPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/wwwroot/actors/54abe5b4-5ebc-4c59-816f-2c1e7ce7da1c.jpeg",
+      "SourceId": "MimimalAPiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/wwwroot/",
+      "BasePath": "_content/MimimalAPiPeliculas",
+      "RelativePath": "actors/54abe5b4-5ebc-4c59-816f-2c1e7ce7da1c.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/actors/54abe5b4-5ebc-4c59-816f-2c1e7ce7da1c.jpeg"
+    },
+    {
+      "Identity": "/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/wwwroot/actors/d0064a92-d17b-4784-a280-8dbf6ee75e18.jpeg",
+      "SourceId": "MimimalAPiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/wwwroot/",
+      "BasePath": "_content/MimimalAPiPeliculas",
+      "RelativePath": "actors/d0064a92-d17b-4784-a280-8dbf6ee75e18.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/actors/d0064a92-d17b-4784-a280-8dbf6ee75e18.jpeg"
+    }
+  ]
+}

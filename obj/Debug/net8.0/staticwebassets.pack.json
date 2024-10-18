@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/wwwroot/actors/54abe5b4-5ebc-4c59-816f-2c1e7ce7da1c.jpeg",
+      "PackagePath": "staticwebassets/actors/54abe5b4-5ebc-4c59-816f-2c1e7ce7da1c.jpeg"
+    },
+    {
+      "Id": "/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/wwwroot/actors/d0064a92-d17b-4784-a280-8dbf6ee75e18.jpeg",
+      "PackagePath": "staticwebassets/actors/d0064a92-d17b-4784-a280-8dbf6ee75e18.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MimimalAPiPeliculas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MimimalAPiPeliculas.props",
+      "PackagePath": "build\\MimimalAPiPeliculas.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MimimalAPiPeliculas.props",
+      "PackagePath": "buildMultiTargeting\\MimimalAPiPeliculas.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MimimalAPiPeliculas.props",
+      "PackagePath": "buildTransitive\\MimimalAPiPeliculas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -18,6 +18,7 @@ public static class ActorsEndpoints
         group.MapPost("/", Create).DisableAntiforgery();
         group.MapGet("/", GetAll).CacheOutput(c => c.Expire(TimeSpan.FromSeconds(60)).Tag("actors-get"));;
         group.MapGet("/{id:int}", GetById);
+        group.MapGet("getActorsByName/{name}", GetActorsByName);
         group.MapDelete("images/{id:int}", DeleteImages);
         return group;
     }
@@ -87,7 +88,13 @@ public static class ActorsEndpoints
     
     
     
-    
+    static async Task<Ok<List<ActorDto>>> GetActorsByName(string name ,IRepositoryActors repository, IMapper mapper)
+    {
+        var actors = await repository.GetByActorName(name);
+        var actorsDto = mapper.Map<List<ActorDto>>(actors);
+        return TypedResults.Ok(actorsDto);
+    }
+
     
     
     

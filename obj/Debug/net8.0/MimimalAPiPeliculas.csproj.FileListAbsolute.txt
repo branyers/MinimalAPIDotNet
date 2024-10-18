@@ -181,3 +181,4 @@
 /Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/bin/Debug/net8.0/System.Management.dll
 /Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
 /Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/bin/Debug/net8.0/MimimalAPiPeliculas.staticwebassets.runtime.json
+/Users/branyesnunez/RiderProjects/MimimalAPiPeliculas/MimimalAPiPeliculas/obj/Debug/net8.0/MimimalAPiPeliculas.sourcelink.json
